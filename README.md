@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+Attention:This CODE is fork from xxx's reponsitry.This responsitry will follow the CC-BY-SA 3.0协议.
+<!-
 **rapk36151/rapk36151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
